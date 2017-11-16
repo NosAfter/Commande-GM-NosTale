@@ -1,0 +1,29 @@
+# Commande-GM-NosTale
+
+$Help = Toute les commandes .
+$CreateItem
+$Position 
+$Invisible
+$SearchItem
+$SearchMonster
+$GodMode
+$Kick
+$Shutdown
+$Shout
+$Kill
+$Promote
+$Demote
+$Ban
+$Unban
+$Mute
+$Unmute
+$AddMonster
+$AddPet
+$AddPartner
+$MapPVP
+$Lvl
+$JLvl
+$ArenaWinner
+$SPLvl
+$FLvl
+$ChangeRep
